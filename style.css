@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+h1 {
+	color: white;
+	/*margin: 40px;*/
+	font-size: 40px;
+}
+
+#banner{
+	background-image: url("https://picsum.photos/400/500?grayscale");
+	background-size: cover;
+	padding: 100px;
+}
+
+#banner p{
+	font-weight: lighter;
+	color: #F4E8DF;
+	font-size: 25px;
+}
+
+.card {
+	padding:  70px;
+}
+
+a {
+	text-decoration: none;
+	background-color: #dcf1e5;
+	color: black;
+}
+
+a:hover {
+	font-size: 30px;
+	background-color: #7DFFB3;
+}
